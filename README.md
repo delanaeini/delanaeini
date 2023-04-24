@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dela!
-- 👀 I always loved solving puzzles, and recently I learned I love coding the same way!
-- 🌱 I’m currently learning SQL and Python. Can't wait to share my solved puzzles here!
+- 👀 I always loved solving puzzles🧩, and recently I learned I love coding💻 the same way!
+- 🌱 I’m currently learning React. Can't wait to share my solved puzzles here!
 
 
 <!---
