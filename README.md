@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Dela!
-- 👀 I always loved solving puzzles🧩, and last year I learned I love coding💻 the same way!
+- 👀 I always loved solving puzzles🧩, and in Early 2022 I learned I love coding💻 the same way!
 - I'm excited🤩 to show you my solved puzzles here!
 
 
